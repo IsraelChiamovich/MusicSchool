@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\bin\Debug\net8.0-windows\MusicScooleXml.exe
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\bin\Debug\net8.0-windows\MusicScooleXml.deps.json
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\bin\Debug\net8.0-windows\MusicScooleXml.runtimeconfig.json
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\bin\Debug\net8.0-windows\MusicScooleXml.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\bin\Debug\net8.0-windows\MusicScooleXml.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.Form1.resources
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.csproj.GenerateResource.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.AssemblyInfo.cs
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\refint\MusicScooleXml.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\MusicScooleXml.genruntimeconfig.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\MusicScooleXml\MusicScooleXml\obj\Debug\net8.0-windows\ref\MusicScooleXml.dll
